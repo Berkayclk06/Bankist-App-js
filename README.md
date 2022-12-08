@@ -1,1 +1,1 @@
-This is WEB APP is made using vanilla js.
+This was WEB APP is made using vanilla js.
